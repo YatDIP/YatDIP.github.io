@@ -1,6 +1,7 @@
 site_name: YatDIP - 数字图像处理
 site_description: 探索像素背后的数学奥秘
 site_author: Your Name
+site_url: https://YatDIP.github.io/
 
 theme:
   name: material
