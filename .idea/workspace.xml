@@ -7,9 +7,8 @@
     <list default="true" id="33934a68-966a-4020-bccf-1efbc3e58f33" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/sitemap.xml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/site/sitemap.xml.gz" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0002391162835906" />
+      <entry key="MS500" value="1.18867824606507" />
+      <entry key="S2" value="1.659068351975204" />
+      <entry key="S5" value="1.8463932341046676" />
+      <entry key="S10" value="1.919996322875623" />
+      <entry key="S30" value="1.9725875304453608" />
+      <entry key="S60" value="1.9861985248647258" />
+      <entry key="M2" value="1.9930752866045585" />
+      <entry key="M5" value="1.9972243390957232" />
+      <entry key="M10" value="1.9986112051723248" />
+      <entry key="M15" value="1.9990739223434892" />
+      <entry key="M30" value="1.9995368539195986" />
+      <entry key="H1" value="1.9997684001405518" />
+      <entry key="H2" value="1.9998841933646876" />
+      <entry key="H4" value="1.9999420950058497" />
+      <entry key="D1" value="1.999990348934787" />
+      <entry key="W1" value="1.9999986212706955" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9395468593614686" />
+      <entry key="MS500" value="1.1068458052638173" />
+      <entry key="S2" value="1.584523861430261" />
+      <entry key="S5" value="1.8071860467246454" />
+      <entry key="S10" value="1.8985053481772605" />
+      <entry key="S30" value="1.9649698968431384" />
+      <entry key="S60" value="1.9823306720587786" />
+      <entry key="M2" value="1.9911264244454712" />
+      <entry key="M5" value="1.996441186808478" />
+      <entry key="M10" value="1.9982190258787895" />
+      <entry key="M15" value="1.9988123353058143" />
+      <entry key="M30" value="1.9994059932775694" />
+      <entry key="H1" value="1.999702953032074" />
+      <entry key="H2" value="1.9998514656127495" />
+      <entry key="H4" value="1.9999257300803515" />
+      <entry key="D1" value="1.999987621301427" />
+      <entry key="W1" value="1.999998231605217" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
   &quot;fromUser&quot;: false
@@ -69,6 +127,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SysuLab\YatDIP-Course" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
       <steps>
@@ -97,7 +160,7 @@
       <workItem from="1789982643024" duration="544000" />
       <workItem from="1789983254125" duration="10000" />
       <workItem from="1789985286180" duration="1984000" />
-      <workItem from="1789996530528" duration="124000" />
+      <workItem from="1789996530528" duration="1563000" />
     </task>
     <servers />
   </component>

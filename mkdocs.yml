@@ -1,6 +1,6 @@
-site_name: YatDIP - 数字图像处理
-site_description: 探索像素背后的数学奥秘
-site_author: Your Name
+site_name: 数字图像处理 (YatDIP)
+site_description: 中山大学《数字图像处理》课程教学与实验平台
+site_author: 傅祉珏
 site_url: https://YatDIP.github.io/
 
 theme:
@@ -33,3 +33,6 @@ nav:
     - 第三部分：图像处理综合应用: lectures/part3.md
   - 🚀 项目大厅: projects.md
   - 💻 前往代码仓库: https://github.com/YatDIP/YatDIP-Labs
+
+extra_css:
+  - stylesheets/custom.css
