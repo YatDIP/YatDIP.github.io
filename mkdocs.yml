@@ -7,9 +7,9 @@ theme:
   name: material
   language: zh
   features:
-    - navigation.tabs # 开启顶部导航栏
-    - navigation.top  # 开启回到顶部按钮
-    - content.code.copy # 代码一键复制
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
   palette:
     scheme: default
     primary: indigo
@@ -21,7 +21,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.arithmatex:
-      generic: true # 支持数学公式
+      generic: true
   - admonition
   - pymdownx.details
 
@@ -32,4 +32,4 @@ nav:
     - 第二部分：图像增强与滤波: lectures/part2.md
     - 第三部分：图像处理综合应用: lectures/part3.md
   - 🚀 项目大厅: projects.md
-  - 💻 前往代码仓库: https://github.com/your-username/YatDIP-Labs
+  - 💻 前往代码仓库: https://github.com/YatDIP/YatDIP-Labs
