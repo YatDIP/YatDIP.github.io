@@ -1,4 +1,4 @@
-site_name: 数字图像处理 (YatDIP)
+site_name: YatDIP - 数字图像处理
 site_description: 中山大学《数字图像处理》课程教学与实验平台
 site_author: 傅祉珏
 site_url: https://YatDIP.github.io/
@@ -24,15 +24,18 @@ markdown_extensions:
       generic: true
   - admonition
   - pymdownx.details
+  - attr_list
+  - md_in_html
 
 nav:
-  - 🏠 首页: index.md
-  - 📖 教学文档:
+  - 首页: index.md
+  - 教学文档:
     - 第一部分：数字图像基础: lectures/part1.md
     - 第二部分：图像增强与滤波: lectures/part2.md
     - 第三部分：图像处理综合应用: lectures/part3.md
-  - 🚀 项目大厅: projects.md
-  - 💻 前往代码仓库: https://github.com/YatDIP/YatDIP-Labs
+  - 项目大厅: projects.md
+  - 版权与致谢: acknowledge.md
+  - 前往代码仓库: https://github.com/YatDIP/YatDIP-Labs
 
 extra_css:
   - stylesheets/custom.css

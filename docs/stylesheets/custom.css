@@ -1,0 +1,15 @@
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color:        #1E4D77;
+  --md-primary-fg-color--light: #2b6a9c;
+  --md-primary-fg-color--dark:  #112f4a;
+}
+
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color:         #005826;
+  --md-accent-fg-color--transparent: rgba(0, 88, 38, 0.1);
+}
+
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
